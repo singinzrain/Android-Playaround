@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808206592405",
+    "project_id": "android-playaround",
+    "storage_bucket": "android-playaround.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808206592405:android:750ccb5fe077e253772e9c",
+        "android_client_info": {
+          "package_name": "com.play.android_playaround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808206592405-uj0q9csuh5435uieumtamgia5ahlkgb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTG-WjKdVFpazF1j64h6T7ZQ9rMg-ImvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808206592405-uj0q9csuh5435uieumtamgia5ahlkgb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
